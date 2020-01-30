@@ -1,0 +1,18 @@
+.mat-card{
+    max-width: 300px;
+    margin: auto;
+}
+.mat-card-avatar{
+    background-image: url('/assets/images/images.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mat-card-actions{
+    display: flex;
+}
+
+.mat-card-actions .flex-spacer{
+    width: 100%;
+}
